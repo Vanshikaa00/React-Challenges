@@ -1,12 +1,10 @@
-# React + Vite
+# Password Strength Checker
+Create a React application that checks the strength of a password entered by the user. The application should display a visual indicator of the password's strength, with the following criteria:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weak (less than 8 characters)
 
-Currently, two official plugins are available:
+Medium (8-12 characters)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Strong (more than 12 characters)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![chrome_AuM2oJwOC2](https://github.com/user-attachments/assets/ec1a113a-4022-47a4-ad82-12e1ec146891)

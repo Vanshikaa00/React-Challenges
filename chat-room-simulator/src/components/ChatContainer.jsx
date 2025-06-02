@@ -21,7 +21,7 @@ export default function ChatContainer() {
             toggleTheme === "light" ? "bg-white" : "bg-stone-800"
           } ${toggleTheme === "light" ? "text-stone-700" : "text-white"} `}
         >
-          <main className="p-3 rounded border w-96 flex flex-col h-[90vh]">
+          <main className="p-3 rounded border w-120 flex flex-col h-[90vh]">
             <h1 className="text-3xl text-center p-3  border ">
               Chat Simulator
             </h1>

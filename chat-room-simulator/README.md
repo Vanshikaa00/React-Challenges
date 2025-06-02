@@ -71,3 +71,6 @@ All five hooks used meaningfully
 Clean, readable code
 
 Optional: comments to explain your logic
+
+
+![chrome_NfKm3vLbNM](https://github.com/user-attachments/assets/dfc1956e-dc8a-49ba-9339-e6a9f6b827b8)

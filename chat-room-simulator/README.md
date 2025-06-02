@@ -1,4 +1,5 @@
-Objectives & Features
+##Objectives & Features
+
 🧩 1. Message System (Core)
 Users can type a message and send it.
 
